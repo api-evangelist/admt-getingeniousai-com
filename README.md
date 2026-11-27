@@ -66,7 +66,7 @@
 
 Ingenious AI provides the ADMT Notice Kit, a web‑based tool that helps small businesses comply with emerging automated‑decision‑making regulations such as Colorado’s AI Act, California CCPA ADMT rules, and Connecticut public‑act requirements. The service offers templates for pre‑use notices, 30‑day adverse decision explanations, human‑review queue management, and secure record‑keeping for three years, with free and paid plans.
 
-**Areas:** Company · Artificial Intelligence · Compliance · Automation · Small Business
+**Areas:** Company · AI · Compliance · Automation · SmallBusiness
 
 ## Ingenious AI on APIs.io
 
@@ -79,12 +79,6 @@ Everything profiled for Ingenious AI is published on APIs.io rather than in this
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
-
-#### MCP servers (1)
-
-Model Context Protocol servers that expose the API to agents.
-
-- [admt-getingeniousai-com-mcp.yml](https://apis.io/servers/admt-getingeniousai-com/admt-getingeniousai-com-mcp-yml/)
 
 #### Agentic access (1)
 
@@ -124,25 +118,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 31.2** — thin · rubric 0.28.1 · scored 2026-11-21
+**Kin Score 36.4** — thin · rubric 0.28.0 · scored 2026-11-27
 
 | Facet | Score |
 |---|---|
 | Discoverability | 76.8 |
 | Contract quality | 0.0 |
-| Contract governance | 18.2 |
+| Contract governance | 65.5 |
 | Operational transparency | 9.5 |
 | Developer ergonomics | 33.3 |
-| Access clarity | 61.7 |
+| Access clarity | 59.1 |
 
-**Agent readiness 4.9** — human-only
+**Agent readiness 12.8** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
-| Agentic Access | derived (partial credit) |
+| Agentic Access | unknown |
 | Reversibility Documented | — |
-| MCP Server | — |
+| MCP Server | documented (partial credit) |
 | Auth Clarity | bearer (partial credit) |
 | Idempotency | — |
 | Error Semantics | derived (partial credit) |
@@ -161,9 +155,6 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
-| Onboarding Descriptor | — |
-| Dns Aid Index | na |
-| Markdown Negotiation | na |
 
 **Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
 
